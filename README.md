@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cryptography/Cyber Security/Software Development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on projects in game design/development
-- 📫 How to reach me: circularlogic2U@gmail.com
+- 📫 How to reach me: ben.bartuska@gmail.com
 
 
 <!---
