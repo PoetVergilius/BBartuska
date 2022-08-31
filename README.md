@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PoetVergilius
+- 👋 Hi, I’m @BBartuska
 - 👀 I’m interested in Cryptography/Cyber Security/Software Development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on projects in game design/development
